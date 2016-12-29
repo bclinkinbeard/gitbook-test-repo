@@ -13,7 +13,7 @@
 * [ Output SVG Elements](chapter11.md)
 * [SVG Graphics Containers and Text Elements](chapter12.md)
 * [Basic Interactivity](chapter13.md)
-* [Better Code Organization with selection.call()](chapter14.md)
+* [Better Code Organization with selection.call\(\)](chapter14.md)
 * [Margin Convention](chapter15.md)
 * [Create Chart Axes](chapter16.md)
 * [Make D3 v4 Charts Responsive with the viewBox attribute](chapter17.md)
@@ -25,3 +25,6 @@
 * [Animate Transitions](chapter23.md)
 * [Reuse Transitions](chapter24.md)
 * [Animate with the General Update Pattern](chapter25.md)
+
+
+
