@@ -1,4 +1,4 @@
-## Install and Configure D3 v4
+## Install and Configure
 
 The D3 website itself is a fantastic resource when learning the technology. It has literally hundreds of examples that you can look at the source for, and experiment with. It has really, really comprehensive documentation, and of course, it has basic installation instructions, which is what we're interested in here.
 
