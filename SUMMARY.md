@@ -1,6 +1,27 @@
 # Table of contents
 
-* [First Chapter](chapter1.md)
-
-
-
+* [Install and Configure D3 v4](chapter01.md)
+* [Convert Input Data to Output Values with Linear Scales](chapter02.md)
+* [Convert Dates to Numeric Values with Time Scales](chapter03.md)
+* [Create Labels from Numeric Data with Quantize Scales](chapter04.md)
+* [Create Labels from Non-numeric Data with Ordinal Scales](chapter05.md)
+* [Load and Inspect Data](chapter06.md)
+* [Select DOM Elements](chapter07.md)
+* [Modify DOM Elements](chapter08.md)
+* [Create DOM Elements](chapter09.md)
+* [Start Visualizing Data Driven Documents](chapter10.md)
+* [ Output SVG Elements](chapter11.md)
+* [SVG Graphics Containers and Text Elements](chapter12.md)
+* [Basic Interactivity](chapter13.md)
+* [Better Code Organization with selection.call()](chapter14.md)
+* [Margin Convention](chapter15.md)
+* [Create Chart Axes](chapter16.md)
+* [Make D3 v4 Charts Responsive with the viewBox attribute](chapter17.md)
+* [Build a Column Chart](chapter18.md)
+* [Build a Scatter Plot](chapter19.md)
+* [Build a Line Chart](chapter20.md)
+* [Build an Area Chart](chapter21.md)
+* [Debug D3 v4 with Dev Tools](chapter22.md)
+* [Animate Transitions](chapter23.md)
+* [Reuse Transitions](chapter24.md)
+* [Animate with the General Update Pattern](chapter25.md)
